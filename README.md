@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm Ren YUX.</h3>
+<h3 align="center">👋 Hello! I'm YUX.</h3>
 
 <p align="center">
   <a href="https://yux.io">Blog</a> •
