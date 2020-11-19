@@ -17,7 +17,7 @@
 Only the latest **1** articles are displayed here.
 
 <!--START_SECTION:posts-->
-* [AI Beginner’s Guide: TensorFlow or PyTorch](https://yux.io/2020/08/ai-beginner-guide-tensorflow-or-pytorch/)
+* [AI Beginner’s Guide: TensorFlow or PyTorch]()
 
 <!--END_SECTION:posts-->
 
