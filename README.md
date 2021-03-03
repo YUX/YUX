@@ -24,11 +24,10 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Stack:
-    languages   : tuple = ("Python", "Go", "C++")
-    databases   : tuple = ("SQLite", "Redis")
-    ongoing     : tuple = ("Maths", "Go", "TensorFlow", "CSAPP")
+    languages   : tuple = ("Golang", "Mandarin", "Python", "C++", "français", "English")
+    ongoing     : tuple = ("CSAPP")
     todos       : tuple = ("JuliaLang", "PyTorch")
-    gears       : tuple = ("mac", "vscode", "vim", "Debian", "raspi 4")
+    gears       : tuple = ("Maths", "m1 mba", "vscode", "vim", "Debian", "raspi 4")
     misc        : tuple = ("TensorFlow", "Docker", "Mathematica")
     edu         : tuple = ("Sorbonne Université Campus Pierre et Marie Curie", "Beijing University of Technology")
     
