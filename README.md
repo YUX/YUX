@@ -8,6 +8,6 @@
   <a href="https://t.me/realYUX">Telegram</a>
 </p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YUX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=YUX)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
