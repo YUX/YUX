@@ -1,3 +1,5 @@
+<a href="https://blog.yux.io"><img align="right" width="80px" src="https://yux.io/api/heartbeat?"/></a>
+
 <h3 align="center">👋 Hello! I'm YUX.</h3>
 
 <p align="center">
