@@ -1,9 +1,7 @@
-<a href="https://blog.yux.io"><img align="right" width="80px" src="https://yux.io/api/heartbeat?"/></a>
-
 <h3 align="center">👋 Hello! I'm YUX.</h3>
 
 <p align="center">
-  <a href="https://yux.io">Blog</a> •
+  <a href="https://blog.realyux.com">Blog</a> •
   <a href="https://twitter.com/realYUX">Twitter</a> •
   <a href="https://github.com/YUX">GitHub</a> •
   <a href="https://instagram.com/realyuxiao">instagram</a> •
@@ -11,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YUX"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YUX&row=1&column=7&no-bg=true&theme=dark_lover&no-frame=true"></a>
 </div>
 
 <!-- Zero width character is used to put extra blank lines before and after code -->
@@ -28,7 +26,7 @@ from dataclasses import asdict, dataclass
 class Stack:
     languages   : tuple = ("Golang", "Mandarin", "Python", "C++", "français", "English")
     ongoing     : tuple = ("CSAPP")
-    todos       : tuple = ("JuliaLang", "PyTorch")
+    todos       : tuple = ("JuliaLang", "Rust⚙️")
     gears       : tuple = ("Maths", "m1 mba", "vscode", "vim", "Debian", "raspi 4")
     misc        : tuple = ("TensorFlow", "Docker", "Mathematica")
     edu         : tuple = ("Sorbonne Université Campus Pierre et Marie Curie", "Beijing University of Technology")
