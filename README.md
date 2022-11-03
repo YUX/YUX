@@ -1,11 +1,14 @@
 <h3 align="center">👋 Hello! I'm YUX.</h3>
 
 <p align="center">
+  <a href="https://realyux.com"><img src="https://shields.io/badge/ipns-realyux.eth-green?logo=Ethereum&style=for-the-badge&logoColor=blue"></a>
+</p>
+
+<p align="center">
   <a href="https://twitter.com/realYUX">Twitter</a> •
   <a href="https://github.com/YUX">GitHub</a> •
   <a href="https://instagram.com/realyuxiao">instagram</a> •
-  <a href="https://t.me/realYUX">Telegram</a> •
-  <a href="https://realyux.com"><img src="https://shields.io/badge/ipns-realyux.eth-green?logo=Ethereum&style=for-the-badge&logoColor=blue"></a>
+  <a href="https://t.me/realYUX">Telegram</a>
 </p>
 
 <div align="center">
